@@ -88,10 +88,7 @@ article {
     display: flex;
     gap: 32px;
     align-items: center;
-}
-
-.nav-btn-wrapper li:first-child {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .nav-btn-wrapper li:last-child {
@@ -300,6 +297,7 @@ article {
     width: 150px;
     height: 40px;
     color: black;
+    font-size: 16px;
     background-color: #ffffff;
     border-radius: 14px;
     align-items: center;
