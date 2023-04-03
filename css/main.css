@@ -156,14 +156,14 @@ article {
 }
 
 .extract::before {
-    content: url(/image/extract.svg);
+    content: url(../image/extract.svg);
     width: 16px;
     height: 16px;
     padding-right: 6px;
 }
 
 .aperture::before {
-    content: url(/image/aperture.svg);
+    content: url(../image/aperture.svg);
     width: 16px;
     height: 16px;
     padding-right: 6px;
@@ -171,14 +171,14 @@ article {
 }
 
 .iso::before {
-    content: url(/image/iso.svg);
+    content: url(../image/iso.svg);
     width: 16px;
     height: 16px;
     padding-right: 6px;
 }
 
 .location::before {
-    content: url(/image/location.svg);
+    content: url(../image/location.svg);
     width: 16px;
     height: 16px;
     padding-right: 6px;
@@ -351,7 +351,7 @@ article {
 
 .main-section-3-rigth {
     position: relative;
-    background-image: url(/image/section-3-backimg.png);
+    background-image: url(../image/section-3-backimg.png);
     background-size: cover;
     width: 100%;
     background-repeat: no-repeat;
@@ -422,31 +422,31 @@ article {
 }
 
 .client-block1 {
-    background-image: url(/image/hile-playes.svg);
+    background-image: url(../image/hile-playes.svg);
     height: 30px;
     background-repeat: no-repeat;
 }
 
 .client-block2 {
-    background-image: url(/image/riksransen.svg);
+    background-image: url(../image/riksransen.svg);
     height: 78px;
     background-repeat: no-repeat;
 }
 
 .client-block3 {
-    background-image: url(/image/studioCai.svg);
+    background-image: url(../image/studioCai.svg);
     height: 20px;
     background-repeat: no-repeat;
 }
 
 .client-block4 {
-    background-image: url(/image/chillIntusties.svg);
+    background-image: url(../image/chillIntusties.svg);
     height: 36px;
     background-repeat: no-repeat;
 }
 
 .client-block5 {
-    background-image: url(/image/stockholm.svg);
+    background-image: url(../image/stockholm.svg);
     height: 32px;
     background-repeat: no-repeat;
 }
